@@ -1,0 +1,5 @@
+# mental_health_sql
+
+# data to ignore
+mental_health.sqlite
+.ipynb_checkpoints
